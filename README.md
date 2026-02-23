@@ -7,3 +7,4 @@ Repo structure:
 - [-1] - low level subject/topic, might be not that usefull
 - [0] - something foundamental but still, not a vital
 - [1] - something what you might need daily
+- [2] - critical if you are developer
