@@ -5,7 +5,8 @@ While still it's not the best idea to have heave github repos, i will let it be.
 
 Repo structure:
 - Now repo is only about software engineering. 
-- [-1] - low level subject/topic, might be not that usefull
-- [0] - something foundamental but still, not a vital
-- [1] - something what you might need daily
-- [2] - very specialised
+- [-1] techincal   - low level subject/topic, mostly about embedded systems 
+- [0]  foundamental - those usually things which interest me the most. 
+- [1] Linux/Unix   - something what you might need daily
+- [2] Software atchitecture - about writing code
+- [3] Systems Programming -   
