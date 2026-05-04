@@ -1,7 +1,7 @@
 ### My home lib in the cloud
 
 Hello, it's my home lib, which allows me to save some readings, so they can be accessed from anywhere in the world, hopefully. If the data is not private, i prefer to store it in the cloud. So, if my machine broken, i don't need to handle to much backups and rarely altered info can be just iterativelly improved, as working on the code.
-While still it's not the best idea to have heave github repos, i will let it be. 
+
 
 Repo structure:
 - Now repo is only about software engineering. 
