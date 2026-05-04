@@ -5,8 +5,8 @@ Hello, it's my home lib, which allows me to save some readings, so they can be a
 
 Repo structure:
 - Now repo is only about software engineering. 
-- [-1] techincal   - low level subject/topic, mostly about embedded systems 
-- [0]  foundamental - those usually things which interest me the most. 
-- [1] Linux/Unix   - something what you might need daily
-- [2] Software atchitecture - about writing code
-- [3] Systems Programming -   
+- [-1] techincal   - low level subject/topic, mostly about embedded systems [physics level]
+- [0] foundamental - those usually things which interest me the most. [formal logic level]
+- [1] Linux/Unix   - something what you might need daily [application level]
+- [2] Software atchitecture - about writing code [systems level]
+- [3] Systems Programming - [level of love to the subject]
